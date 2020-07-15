@@ -1,0 +1,8 @@
+= Zitate
+Heiner Specht
+:lang: de
+
+[quote, Jameson Lopp, Bitcoin engineer]
+----
+Wann immer dir etwas umsonst angeboten wird, denk daran, dass die Mäuse in den Fallen sterben, weil sie nicht verstehen, warum der Käse kostenlos ist.
+----
