@@ -1,0 +1,80 @@
+= Quotes
+Heiner Specht
+:lang: en
+:toc:
+
+== Miscellaneous
+
+[quote, Anne Sweeney]
+____
+Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live.
+____
+
+== Programming
+
+[quote, ?, The Pragmatic Programmer]
+____
+Make it Work, Make it Right, Make it Fast
+____
+
+[quote, John Johnson]
+____
+First, solve the Problem. Then, write the Code
+____
+
+[quote, E. W. Dijkstra]
+____
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+____
+
+[quote, Brian W. Kernighan and P. J. Plauger, The Elements of Programming Style]
+____
+Debugging is twice as hard as writing the code in the first place.
+
+Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+____
+
+[quote, David Gelernter]
+____
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
+____
+
+[quote, Edsger W. Dijkstra]
+____
+Simplicity is prerequisite for reliability.
+____
+
+[quote, Bill Gates]
+____
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+____
+
+[quote, Martin Golding]
+____
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+____
+
+[quote, Steve McConnell]
+____
+Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'
+____
+
+[quote, Ralph Johnson]
+____
+Before software can be reusable it first has to be usable.
+____
+
+[quote, Bjarne Stroustrup]
+____
+I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
+____
+
+[quote, Roberto Waltman]
+____
+In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers).
+____
+
+[quote, Phil Karlton]
+____
+There are only two hard problems in computer science: cache invalidation and naming things.
+____

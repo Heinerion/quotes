@@ -1,8 +1,28 @@
 = Zitate
 Heiner Specht
 :lang: de
+:toc:
+
+== Verschiedenes
 
 [quote, Jameson Lopp - Bitcoin engineer]
 ____
 Wann immer dir etwas umsonst angeboten wird, denk daran, dass die Mäuse in den Fallen sterben, weil sie nicht verstehen, warum der Käse kostenlos ist.
+____
+
+== Programmieren
+
+[quote, ?, Der pragmatische Programmierer]
+____
+Versuchen Sie, jede beliebige Editier-Aufgabe so zu erledigen, dass Sie möglichst wenige Tasten drücken müssen.
+____
+
+[quote, Edward Bulwer-Lytton, The Disowned]
+____
+Sich selbst kann man am leichtesten täuschen
+____
+
+[quote, ?]
+____
+Alle Probleme lassen sich durch neue Abstraktionsebenen lösen, ausser zu viele Abstraktionsebenen
 ____
