@@ -10,6 +10,181 @@ ____
 Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live.
 ____
 
+[quote, Henry van Dyke]
+____
+Use what talents you possess, the woods will be very silent if no birds sang there except those that sang best.
+____
+
+[quote, Anna Quindlen]
+____
+The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.
+____
+
+[quote, Tim Fargo]
+____
+The path to wisdom is paved with humility.
+____
+
+[quote, Chinesisches Sprichwort]
+____
+The best time to plant a tree was 20 years ago. The second best time is now.
+____
+
+[quote, ?]
+____
+If you find yourself constantly trying to prove your worth to someone, you have already forgotten your value.
+____
+
+[quote, Stephen McCranie]
+____
+The master has failed more times than the beginner has even tried
+____
+
+[quote, ?]
+____
+I am strong because I've been weak. I am fearless because I've been afraid. I am wise because I've been foolish.
+____
+
+[quote, Robin Sharma]
+____
+Stop managing your time. Start managing your focus.
+____
+
+[quote, ?]
+____
+Don't limit your challenges - challenge your limits.
+____
+
+[quote, Herman Hesse]
+____
+Some of us think holding on makes us strong, but sometimes it is letting go.
+____
+
+[quote, Amelia Earhart]
+____
+The most difficult thing is the decision to act, the rest is merely tenacity.
+____
+
+[quote, Winston Churchill]
+____
+Success is the ability to go from failure to failure without losing your enthusiasm.
+____
+
+[quote, Arnold Schwarzenegger]
+____
+Strength does not come from winning. Your struggles develop your strengths.
+____
+
+[quote, Ruth E. Renkl]
+____
+You live longer once you realize that any time spent being unhappy is wasted.
+____
+
+[quote, John A. Shedd]
+____
+A ship in harbor is safe — but that is not what ships are built for.
+____
+
+[quote, Gant Laborde]
+____
+Nothing will bring you peace, you must bring yourself to it.
+____
+
+[quote, ?]
+____
+An amateur practices until he can play it correctly, a professional practices until he can't play it incorrectly.
+____
+
+[quote, Atticus]
+____
+Watch carefully the magic that occurs when you give a person just enough comfort to be themselves.
+____
+
+[quote, Sokrates]
+____
+Beware the barrenness of a busy life.
+____
+
+[quote, Chef Gusteau, Ratatouille]
+____
+If you focus on what you left behind, then how can you see what lies ahead?
+____
+
+[quote, Thomas Fuller]
+____
+All things are difficult before they are easy.
+____
+
+[quote, James Cameron]
+____
+If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.
+____
+
+[quote, ?]
+____
+What you do matters, but why you do it matters much more.
+____
+
+[quote, Napoleon Hill]
+____
+If you cannot do great things, do small things in a great way
+____
+
+[quote, ?]
+____
+War does not determine who is right – only who is left.
+____
+
+[quote, ?]
+____
+Always borrow money from a pessimist. He won’t expect it back.
+____
+
+[quote, ?]
+____
+We live in a society where pizza gets to your house before the police.
+____
+
+[quote, Ralph Waldo Emerson]
+____
+People do not seem to realize that their opinion of the world is also a confession of character.
+____
+
+[quote, Pamela McFarland Walsh]
+____
+Powerful avalanches begin with small shifts.
+____
+
+[quote, Arnold Schwarzenegger]
+____
+You can't be paralyzed by fear of failure or you will never push yourself.
+____
+
+[quote, Harriet Braiker]
+____
+Striving for excellence motivates you; striving for perfection is demoralizing.
+____
+
+[quote, Buddha]
+____
+No matter how hard the past, you can always begin again.
+____
+
+[quote, ?]
+____
+Things may come to those who wait, but only the things left by those who hustle.
+____
+
+[quote, Maya Angelou]
+____
+You can't use up creativity. The more you use, the more you have.
+____
+
+[quote, ?]
+____
+Everything is difficult until you know how to do it.
+____
+
 == Programming
 
 [quote, ?, The Pragmatic Programmer]
@@ -77,4 +252,9 @@ ____
 [quote, Phil Karlton]
 ____
 There are only two hard problems in computer science: cache invalidation and naming things.
+____
+
+[quote, ?]
+____
+Shipping beats perfection
 ____

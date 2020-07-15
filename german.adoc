@@ -10,6 +10,36 @@ ____
 Wann immer dir etwas umsonst angeboten wird, denk daran, dass die Mäuse in den Fallen sterben, weil sie nicht verstehen, warum der Käse kostenlos ist.
 ____
 
+[quote, Joachim Schlosser]
+____
+Kunde will ≠ Kunde braucht
+____
+
+[quote, Joachim Schlosser]
+____
+Produktivität ist eine Frage der Gewohnheiten und Methoden, nicht der Tools.
+____
+
+[quote, Joachim Schlosser]
+____
+Das, was Sie nicht tun, beeinflusst Produktivität oft mehr als das was Sie tun.
+____
+
+[quote, Tim Fargo]
+____
+Der Pfad zur Weisheit ist mit Demut gepflastert
+____
+
+[quote, Oscar Wilde]
+____
+Vergib deinen Feinden, nichts ärgert sie so sehr
+____
+
+[quote, ?]
+____
+Zuhören ist eine unterschätzte Fähigkeit
+____
+
 == Programmieren
 
 [quote, ?, Der pragmatische Programmierer]
@@ -25,4 +55,9 @@ ____
 [quote, ?]
 ____
 Alle Probleme lassen sich durch neue Abstraktionsebenen lösen, ausser zu viele Abstraktionsebenen
+____
+
+[quote, ?]
+____
+Gib [Informatikern] ein Problem und sie entwicklen eine Programmiersprace bzw. ein Framework, mit dem solche Probleme perfekt gelöst werden können.
 ____
