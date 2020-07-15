@@ -4,4 +4,5 @@ Heiner Specht
 
 This repositorie is used for a quotes I like
 
-link:german.adoc[German quotes]
+* link:german.adoc[German quotes]
+* link:english.adoc[English quotes]
